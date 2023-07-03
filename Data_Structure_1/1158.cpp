@@ -1,7 +1,6 @@
 // int 배열 대신에 바로 출력하는 방법도 가능
 
 #include<iostream>
-#include<string>
 #include<queue>
 
 using namespace std;
