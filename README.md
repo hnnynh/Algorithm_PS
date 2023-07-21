@@ -4,4 +4,4 @@
 | Date        | Tag              | Problems | 
 |-------------|------------------|----------|
 | 2023.07.16. | Data_Structure_1 | <a href="https://hnnynh.notion.site/2800-b339ab639e0b42d6af6dbffc7f6f4646?pvs=4" target="_blank">2800</a>, <a href="https://hnnynh.notion.site/2493-6cb75d2a391e4905b9b05ce18e03329f?pvs=4" target="_blank">2493</a>, <a href="https://hnnynh.notion.site/22942-8bbf57c3bc7d493a8082a87903188653?pvs=4" target="_blank">22492</a>  |
-
+| 2023.07.27. | Data_Structure_2 | <a href="https://hnnynh.notion.site/1620-956313dfb8ab46bfb3d8a0910da8b486?pvs=4" target="_blank">1620</a>,  |
