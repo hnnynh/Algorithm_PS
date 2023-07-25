@@ -1,5 +1,6 @@
 // while(getline(cin, str)), while(cin >> str), while(!cin.eof())
-// map 정렬
+// map 자동 정렬
+// 소수점 출력 형식
 
 #include<iostream>
 #include<map>
