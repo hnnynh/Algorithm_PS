@@ -7,6 +7,6 @@
 | 2023.07.27. | Data_Structure_2 | <a href="https://hnnynh.notion.site/1620-956313dfb8ab46bfb3d8a0910da8b486?pvs=4" target="_blank">1620</a>, <a href="https://hnnynh.notion.site/7662-863c6ff0502b4123915a4704609bb489?pvs=4" target="_blank">7662</a>, <a href="https://hnnynh.notion.site/21939-Version-1-943c1b9c89d944c9b633c0fb1ce55337?pvs=4" target="_blank">21939</a>  |
 | 2023.08.03. | Tree | <a href="https://hnnynh.notion.site/1068-61e2f4b113f14f66ac3648205ac6de6c?pvs=4" target="_blank">1068</a>, <a href="https://hnnynh.notion.site/17073-7b8e4b354d1f4bb0bd7a9a8d82e3470a?pvs=4" target="_blank">17073</a>, <a href="https://hnnynh.notion.site/1967-d6af03dce95c45b3b371cd6759f9e893?pvs=4" target="_blank">1967</a>,      |
 | 2023.08.10. | Greedy I | <a href="https://hnnynh.notion.site/21314-7c23fb1889df48cb8439da1479a9d92c?pvs=4" target="_blank">21314</a>, <a href="https://hnnynh.notion.site/1931-d0afacd7eb64434ba96a3c6dec23516a?pvs=4" target="_blank">1931</a> |
-| 2023.08.17. | Greedy II | |
+| 2023.08.17. | Greedy II | <a href="https://hnnynh.notion.site/11000-202dcc5e8f1341d48df8b68248c74bab?pvs=4" target="_blank">11000</a>,  |
 | 2023.08.24. | Dynamic Programming 1 | |
 | 2023.08.31. | Dynamic Programming 2 | |
